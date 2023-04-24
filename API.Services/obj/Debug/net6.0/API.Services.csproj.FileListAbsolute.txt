@@ -1,0 +1,17 @@
+C:\Users\HimanshuMishra\source\repos\API.CQRS\API.Services\bin\Debug\net6.0\API.Services.deps.json
+C:\Users\HimanshuMishra\source\repos\API.CQRS\API.Services\bin\Debug\net6.0\API.Services.dll
+C:\Users\HimanshuMishra\source\repos\API.CQRS\API.Services\bin\Debug\net6.0\API.Services.pdb
+C:\Users\HimanshuMishra\source\repos\API.CQRS\API.Services\obj\Debug\net6.0\API.Services.csproj.AssemblyReference.cache
+C:\Users\HimanshuMishra\source\repos\API.CQRS\API.Services\obj\Debug\net6.0\API.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HimanshuMishra\source\repos\API.CQRS\API.Services\obj\Debug\net6.0\API.Services.AssemblyInfoInputs.cache
+C:\Users\HimanshuMishra\source\repos\API.CQRS\API.Services\obj\Debug\net6.0\API.Services.AssemblyInfo.cs
+C:\Users\HimanshuMishra\source\repos\API.CQRS\API.Services\obj\Debug\net6.0\API.Services.csproj.CoreCompileInputs.cache
+C:\Users\HimanshuMishra\source\repos\API.CQRS\API.Services\obj\Debug\net6.0\API.Services.dll
+C:\Users\HimanshuMishra\source\repos\API.CQRS\API.Services\obj\Debug\net6.0\refint\API.Services.dll
+C:\Users\HimanshuMishra\source\repos\API.CQRS\API.Services\obj\Debug\net6.0\API.Services.pdb
+C:\Users\HimanshuMishra\source\repos\API.CQRS\API.Services\obj\Debug\net6.0\ref\API.Services.dll
+C:\Users\HimanshuMishra\source\repos\API.CQRS\API.Services\bin\Debug\net6.0\API.Data.dll
+C:\Users\HimanshuMishra\source\repos\API.CQRS\API.Services\bin\Debug\net6.0\API.Model.dll
+C:\Users\HimanshuMishra\source\repos\API.CQRS\API.Services\bin\Debug\net6.0\API.Data.pdb
+C:\Users\HimanshuMishra\source\repos\API.CQRS\API.Services\bin\Debug\net6.0\API.Model.pdb
+C:\Users\HimanshuMishra\source\repos\API.CQRS\API.Services\obj\Debug\net6.0\API.Services.csproj.CopyComplete
